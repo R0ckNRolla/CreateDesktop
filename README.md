@@ -1,10 +1,10 @@
 # CreateDesktop
 
-Creates a hidden Windows 10 Virtual Desktop.
+Creates a hidden Windows 10 virtual desktop.
 
 ## Details
 
-Visual Studio 2017 32/64-bit native concole application written in C++. When run creates a hidden virtul Windows 10 desktop and toggles to it. To toggle back, press Ctrl+Alt+E. The virtual desktop remains active but invisible even after the command has terminated. Run the command again to get back to it.
+Visual Studio 2017 32/64-bit native console application written in C++. When run creates a hidden virtual Windows 10 desktop and toggles to it. To toggle back, press Ctrl+Alt+E. The virtual desktop remains active but invisible even after the command has terminated. Run the command again to get back to it.
 
 ### Using
 
