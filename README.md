@@ -27,4 +27,4 @@ Start Menu and other Windows-specific icons on the taskbar don't respond on the 
 ## Authors
 
 * **MalwareTech** - *Initial work* - [MalwareTech](https://github.com/MalwareTech)
-* **Andreas Toth** - *UNICODE and clean-ups* - [MrAndreasToth](https://github.com/mrandreastoth)
+* **Andreas Toth** - *VS 2017 Project, UNICODE, and clean-ups* - [MrAndreasToth](https://github.com/mrandreastoth)
